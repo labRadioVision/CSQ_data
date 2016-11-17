@@ -14,5 +14,12 @@ v_1: CSQ deviations (excess attenuations) for occupied environment
 v_sim_1: CSQ simulated deviations for occupied environment
 (xt_nom,yt_nom): nominal simulated position of the subject
 
-Folder: 
-Contains the test data 
+Folders: Xperia_cellphone A, Xperia_cellphone B, Nexus_cellphone C, Xperia_cellphone D contains the test data for 4 cellular devices (from different vendors) 
+
+Each folder contains measurements recorded in a given date (YYYY-MM-DD) corresponding to 4 cellular devices.
+
+Each folder contains four files: 
+CID: cell indentifier corresponding to a given sample
+CSQ: received signal strength (dBm) corresponding to a given sample
+DATE: date of sampling (YYYY-MM-DD)
+TIME: time of sampling (HH-MM-ss)
