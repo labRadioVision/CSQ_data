@@ -1,0 +1,8 @@
+Each folder contains measurements recorded in a given date (YYYY-MM-DD) corresponding to nexus, samsung, xperiablack and xperiawhite devices.
+each folder contains four files: 
+CID:cell indentifier corresponding to a given sample
+CSQ:received signal strength corresponding to a given sample
+DATE:date of sampling (YYYY-MM-DD)
+TIME:time of sampling (HH-MM-ss)
+
+ 
