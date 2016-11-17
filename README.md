@@ -23,3 +23,5 @@ CID: cell indentifier corresponding to a given sample
 CSQ: received signal strength (dBm) corresponding to a given sample
 DATE: date of sampling (YYYY-MM-DD)
 TIME: time of sampling (HH-MM-ss)
+
+True_occupancy_record_alldevicesABCD.csv contains the available true occupancy records for all devices (A,B,C,D)  
